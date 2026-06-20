@@ -27,7 +27,7 @@ global pixel_box := 4             ; Keep between min 3 and max 8
 global pixel_sens := 67            ; higher/lower = more/less color sensitive
 global pixel_color := 0xFEFE40     ; yellow="0xFEFE40", purple="0xA145A3"
 global tap_time := 148              ; Default delay in ms between shots when triggered
-global wait_time := 0              ; Default delay in ms before shoots when triggered               
+global wait_time := 34              ; Default delay in ms before shoots when triggered               
 global clicks := 1                 ; Default flag for clicks config
 global sound_file := "C:\Windows\Media\chimes.wav"
 global waiting := 0
